@@ -17,6 +17,9 @@ int main()
 	return 0;
 }
 
+
+/*BHAI ERROR IN LINE 12*/
+
 /*
 Input:
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
